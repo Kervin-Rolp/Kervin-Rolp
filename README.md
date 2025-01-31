@@ -5,7 +5,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Kervin</h1></summary>
+    <summary><h1 style="display: inline-block">Hola 👋, Soy Kervin</h1></summary>
   </ul>
 </div>
 
@@ -18,11 +18,11 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **MongoDB**
+- 🔭 Actualmente trabajo com **JavaScript**
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- 🌱 Actualmente estoy aprendiendo **a armar múltiples Hyper Beast Stack para aplicaciones escalables.**
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- ☁️ Tengo gran interés en la computación en la nube. Entonces, estoy aprendiendo **AWS**
 
 <!--Intro end-->
 
@@ -30,7 +30,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Tecnologias👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
@@ -45,7 +45,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+    <summary><h2 style="display: inline-block">Conéctate conmigo🤝</h2></summary>
   </ul>
 </div>
 
